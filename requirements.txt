@@ -7,3 +7,5 @@ pillow
 pytesseract 
 opencv-python
 spacy
+transformers==4.36.2 
+sentence-transformers==2.2.2
